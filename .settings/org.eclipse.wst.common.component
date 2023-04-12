@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Web_day5_hidden_Form_Fields">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Web_day5_hidden_Form_Fields"/>
+        <property name="java-output-path" value="/Web_day5_hidden_Form_Fields/build/classes"/>
+    </wb-module>
+</project-modules>
